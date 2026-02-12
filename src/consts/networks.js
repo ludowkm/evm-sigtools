@@ -97,6 +97,13 @@ const NETWORKS = [
     rpc: 'https://mainnet.aurora.dev',
     icon: '/img/networks/aurora.png',
   },
+  {
+    name: 'BSC Testnet',
+    chainId: 97,
+    token: 'tBNB',
+    rpc: 'https://bsc-testnet-rpc.publicnode.com',
+    icon: '/img/networks/bsc.png',
+  },
 ]
 
 export default NETWORKS
